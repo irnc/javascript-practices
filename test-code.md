@@ -2,7 +2,7 @@
 
 * mocha
 * chai
-* supertest
+* [supertest](https://www.npmjs.com/package/supertest)
 * sinon
 * https://www.npmjs.com/package/rosie
 * nodeunit
