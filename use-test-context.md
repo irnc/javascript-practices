@@ -4,7 +4,7 @@
 var defaultPost;
 
 before(function () {
-  defaultPost = Post.create(Factory.build('postFactory'));
+  defaultPost = Factory.build('postFactory');
 });
 ```
 
@@ -12,7 +12,7 @@ before(function () {
 
 ```js
 before(function () {
-  this.defaultPost = Post.create(Factory.build('postFactory'));
+  this.defaultPost = Factory.build('postFactory');
 });
 ```
 
