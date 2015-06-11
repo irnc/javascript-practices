@@ -7,6 +7,11 @@
 * https://www.npmjs.com/package/rosie
 * nodeunit
 
+## In case you work with Promises
+
+* chai-as-promised
+* supertest-as-promised
+
 ## See also
 
 * `npm test` command using `test` script
