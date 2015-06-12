@@ -15,3 +15,4 @@
 ## See also
 
 * `npm test` command using `test` script
+* [explore-tests](https://github.com/irnc/explore-tests)
