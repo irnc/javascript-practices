@@ -5,3 +5,8 @@
 * http://elegantcode.com/2009/02/13/assertion-driven-design-add/
   * on _Test Driven Design_ and _Assertion Driven  Design_
 * https://en.wikipedia.org/wiki/Assertion_(software_development)
+
+## Assertions in unit testing
+
+* http://chaijs.com/api/assert/
+* http://angular.github.io/assert/
