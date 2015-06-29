@@ -13,3 +13,11 @@
 
 * http://chaijs.com/api/assert/
 * http://angular.github.io/assert/
+
+## `console.assert`
+
+* see comments at http://stackoverflow.com/questions/15313418/javascript-assert
+
+## Standartization
+
+* http://wiki.ecmascript.org/doku.php?id=strawman:assert
