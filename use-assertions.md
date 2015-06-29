@@ -4,3 +4,4 @@
   * _This module is used for writing unit tests for your applications, you can access it with require('assert')._
 * http://elegantcode.com/2009/02/13/assertion-driven-design-add/
   * on _Test Driven Design_ and _Assertion Driven  Design_
+* https://en.wikipedia.org/wiki/Assertion_(software_development)
