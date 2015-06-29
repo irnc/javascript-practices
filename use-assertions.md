@@ -18,6 +18,10 @@
 
 * see comments at http://stackoverflow.com/questions/15313418/javascript-assert
 
+## `Ember.assert`
+
+* http://emberjs.com/api/classes/Ember.html#method_assert
+
 ## Standartization
 
 * http://wiki.ecmascript.org/doku.php?id=strawman:assert
