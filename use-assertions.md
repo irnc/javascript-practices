@@ -5,6 +5,9 @@
 * http://elegantcode.com/2009/02/13/assertion-driven-design-add/
   * on _Test Driven Design_ and _Assertion Driven  Design_
 * https://en.wikipedia.org/wiki/Assertion_(software_development)
+* http://c2.com/cgi/wiki?WhatAreAssertions
+* http://www.pgbovine.net/programming-with-asserts.htm
+  * _Programming with assertions (a.k.a. assert statements) is a great idea ..._
 
 ## Assertions in unit testing
 
