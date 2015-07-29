@@ -1,5 +1,7 @@
 # javascript-practices
 
+_For a bigger picture [explore JavaScript](https://github.com/irnc/explore-javascript)._
+
 ## Goals
 
 * to maintain high code quality
