@@ -21,6 +21,8 @@
 
 ## Unit testing
 
+* Everyone should write unit tests
+
 ## Test coverage reports
 
 ## Integration testing
